@@ -16,14 +16,14 @@ A modern, clean starter kit for building fullstack applications with **Laravel**
 
 ## ✨ Features
 
-- ⚡ **Laravel 12** - Latest PHP framework
-- ⚛️ **React 18** - Modern frontend library
-- 🎨 **Tailwind CSS 4** - Utility-first CSS framework
-- 🧩 **Shadcn UI** - Beautiful, accessible React components
-- 🔗 **Inertia.js** - Modern monolith SPA architecture
-- ⚡ **Vite** - Lightning fast build tool with HMR
-- 🌙 **Dark Mode** - Built-in dark mode toggle
-- 📱 **Responsive** - Mobile-first design
+- **Laravel 12** - Latest PHP framework
+- **React 18** - Modern frontend library
+- **Tailwind CSS 4** - Utility-first CSS framework
+- **Shadcn UI** - Beautiful, accessible React components
+- **Inertia.js** - Modern monolith SPA architecture
+- **Vite** - Lightning fast build tool with HMR
+- **Dark Mode** - Built-in dark mode toggle
+- **Responsive** - Mobile-first design
 
 ## 📦 Included Components
 
